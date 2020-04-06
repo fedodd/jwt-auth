@@ -10,7 +10,6 @@
     "start": "webpack-dev-server --open"
   },
   "dependencies": {
-    "formik": "^1.4.2",
     "history": "^4.7.2",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
@@ -19,8 +18,7 @@
     "redux": "^4.0.5",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
-    "rxjs": "^6.3.3",
-    "yup": "^0.26.10"
+    "rxjs": "^6.3.3"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
